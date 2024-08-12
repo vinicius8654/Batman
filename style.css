@@ -1,0 +1,53 @@
+:root{
+--green: #00FF00;
+--white: #ffffff;
+--black: #000000;
+--red: #ff0000;
+--yellow: #ffff00;
+--otherblue: blue;
+--indigo: #000020;
+--jornal: #E1E1DD;
+}
+body{
+background-color: var(--black);
+}
+.batma{
+    position: absolute;
+    width: 30%;
+    left: 65%;
+    top: 2%;
+    
+}
+.bat{
+    position: absolute;
+    color:white ;
+    font-size: 150px;
+top: 25%;
+left: 10%; 
+
+}
+.gargula{
+    position: absolute;
+    color:white ;
+    font-size: 45px;
+top: 45%;
+left: 9%; 
+}
+.sub{
+    position: absolute;
+    color:white ;
+    font-size: 25px;
+top: 50%;
+left: 9%;
+}
+.page2{
+    position: absolute;
+    color:#ffffff ;
+    background-color: #445b5f;
+
+    font-size: 35px;
+top: 85%;
+left: 9%;
+border-radius: 20px;
+cursor: pointer;
+}
